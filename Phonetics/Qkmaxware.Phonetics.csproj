@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Qkmaxware.Phonetics</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Colin Halseth</Authors>
+    <PackageTags>IPA phonetic conversion</PackageTags>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <RepositoryUrl>https://https://github.com/qkmaxware/CsPhonetics.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageDescription>
+      IPA phonetic conversion
+    </PackageDescription>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\LICENSE.md" CopyToOutputDirectory="Always" Pack="true" PackagePath="$(PackageLicenseFile)"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="data\CMU.in.IPA.txt"/>
+  </ItemGroup>
+
+</Project>

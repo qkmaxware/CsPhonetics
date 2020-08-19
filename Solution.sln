@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qkmaxware.Phonetics", "Phonetics\Qkmaxware.Phonetics.csproj", "{B8123878-3034-4405-9B2F-39A30B14CE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonetics.Test", "Phonetics.Test\Phonetics.Test.csproj", "{526EF54B-7D76-4272-8EFC-4AF7A35928FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|x64.Build.0 = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|x64.ActiveCfg = Release|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|x64.Build.0 = Release|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8123878-3034-4405-9B2F-39A30B14CE21}.Release|x86.Build.0 = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|x64.Build.0 = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Debug|x86.Build.0 = Debug|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|x64.ActiveCfg = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|x64.Build.0 = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|x86.ActiveCfg = Release|Any CPU
+		{526EF54B-7D76-4272-8EFC-4AF7A35928FF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
