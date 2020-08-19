@@ -10,7 +10,7 @@
     <Authors>Colin Halseth</Authors>
     <PackageTags>IPA phonetic conversion</PackageTags>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
-    <RepositoryUrl>https://https://github.com/qkmaxware/CsPhonetics.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/qkmaxware/CsPhonetics.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageDescription>
       IPA phonetic conversion
